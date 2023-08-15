@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GoldExperienceRequimm/project.git/static/css/main.aa8aed0d.css",
+    "main.js": "/GoldExperienceRequimm/project.git/static/js/main.95341659.js",
+    "static/media/img2.jpg": "/GoldExperienceRequimm/project.git/static/media/img2.825b6106165391aecf54.jpg",
+    "static/media/img.jpg": "/GoldExperienceRequimm/project.git/static/media/img.36a1038dc609acd7aaf7.jpg",
+    "static/media/img3.jpg": "/GoldExperienceRequimm/project.git/static/media/img3.65f43a5212b993cefdc0.jpg",
+    "static/media/react1.png": "/GoldExperienceRequimm/project.git/static/media/react1.09a41b58e6860a8eee8e.png",
+    "static/media/react2.jpeg": "/GoldExperienceRequimm/project.git/static/media/react2.dc46bafcdf2710305af8.jpeg",
+    "static/media/intro.jpg": "/GoldExperienceRequimm/project.git/static/media/intro.bee346f71acab98e6023.jpg",
+    "index.html": "/GoldExperienceRequimm/project.git/index.html",
+    "main.aa8aed0d.css.map": "/GoldExperienceRequimm/project.git/static/css/main.aa8aed0d.css.map",
+    "main.95341659.js.map": "/GoldExperienceRequimm/project.git/static/js/main.95341659.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa8aed0d.css",
+    "static/js/main.95341659.js"
+  ]
+}
